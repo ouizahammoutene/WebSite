@@ -1,0 +1,1 @@
+# Python dependencies: Django, DRF, Pillow, django-cors-headers, python-dotenv, etc.
